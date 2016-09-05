@@ -1,3 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-    <string name="app_name">Hello World</string>
+
+    <string name="app_name">AlertDialogSimple</string>
+
+    <string name="exit">Выход</string>
+
+    <string name="save_data">Богдан Фоменко</string>
+
+    <string name="yes">Пидор!</string>
+
+    <string name="no">Пидор!!11!</string>
+
+    <string name="cancel">Пидор!!!!11!111!</string>
+
+    <string name="saved">Вы правы!</string>
+
 </resources>
